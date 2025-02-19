@@ -1,3 +1,5 @@
+output:
+
 Surname: Doe
 Email: john.doe@example.com
 Password: ********
